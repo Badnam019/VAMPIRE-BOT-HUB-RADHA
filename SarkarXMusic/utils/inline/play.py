@@ -37,7 +37,7 @@ def stream_markup_timer(_, chat_id, played, dur):
     elif 10 < umm < 20:
         bar = "━⚪━━━━━━━━━"
     elif 20 <= umm < 30:
-        bar = "❤️‍🔥𝐕𝐀𝐌𝐏𝐈𝐑𝐄 𝐊𝐈𝐍𝐆❤️‍🔥"
+        bar = "❤️‍🔥𝐁𝐀𝐃𝐍𝐀𝐌❤️‍🔥"
     elif 30 <= umm < 40:
         bar = "━━━━⚪━━━━━━"
     elif 40 <= umm < 50:
@@ -61,15 +61,15 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❰❤️‍🔥𝐕𝐀𝐌𝐏𝐈𝐑𝐄 𝐊𝐈𝐍𝐆❤️‍🔥❱", url="https://t.me/llVAMPIRE_KINGll"
+                text="❰❤️‍🔥𝐁𝐀𝐁𝐘❤️‍🔥❱", url="https://t.me/FRIEND_X_ZONE_CHATING_GROUP"
             ),
             InlineKeyboardButton(
-                text="❰❤️‍🔥𝐃𝐏𝐙 𝐄𝐃𝐈𝐓𝐈𝐍𝐆❤️‍🔥❱", url="https://t.me/llEDITING_ZONEll"
+                text="❰❤️‍🔥𝐁𝐀𝐁𝐔❤️‍🔥❱", url="https://t.me/FRIEND_X_ZONE_CHATING_GROUP"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="❰❤️‍🔥𝐏𝐑𝐎𝐌𝐎𝐓𝐈𝐎𝐍 𝐂𝐎𝐍𝐓𝐀𝐂𝐓❤️‍🔥❱", url="https://t.me/llVAMPIRE_KINGll"
+                text="❰❤️‍🔥𝐉𝐎𝐈𝐍 𝐆𝐑𝐎𝐔𝐏❤️‍🔥❱", url="https://t.me/FRIEND_X_ZONE_CHATING_GROUP"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -88,12 +88,12 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="❤️‍🔥𝐕𝐀𝐌𝐏𝐈𝐑𝐄 𝐊𝐈𝐍𝐆❤️‍🔥", url="https://t.me/llVAMPIRE_KINGll",
+                text="❤️‍🔥𝐉𝐀𝐘 𝐒𝐇𝐑𝐄𝐄 𝐊𝐑𝐈𝐒𝐇𝐍𝐀❤️‍🔥", url="https://t.me/FRIEND_X_ZONE_CHATING_GROUP",
             ),
         ],
         [
             InlineKeyboardButton(
-                text="𝙄 𝘼𝙢 𝙇𝙞𝙫𝙚 𝙉𝙤𝙬🎧", url="https://t.me/llEDITING_ZONEll",
+                text="𝙄 𝘼𝙢 𝙇𝙞𝙫𝙚 𝙉𝙤𝙬🎧", url="https://t.me/FRIEND_X_ZONE_CHATING_GROUP",
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
