@@ -92,7 +92,7 @@ async def start_pm(client, message: Message, _):
         if await is_on_off(2):
             return await app.send_message(
                 chat_id=config.LOGGER_ID,
-                text=f"{message.from_user.mention} ᴊᴜsᴛ sᴛᴀʀᴛᴇᴅ ᴛʜᴇ ʙᴏᴛ.\n\n<b>ᴜsᴇʀ ɪᴅ :</b> <code>{message.from_user.id}</code>\n<b>ᴜsᴇʀɴᴀᴍᴇ :</b> @{message.from_user.username}",
+                text=f"{message.from_user.mention} 𝐉𝐮𝐬𝐭 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 𝐁𝐎𝐭.\n\n<b>𝐔𝐬𝐞𝐫 𝐈𝐝 :</b> <code>{message.from_user.id}</code>\n<b>𝐔𝐬𝐞𝐫 𝐍𝐚𝐦𝐞 :</b> @{message.from_user.username}",
             )
 
 
