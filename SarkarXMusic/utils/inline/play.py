@@ -61,15 +61,15 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❰❤️‍🔥𝐁𝐀𝐁𝐘❤️‍🔥❱", url="https://t.me/FRIEND_X_ZONE_CHATING_GROUP"
+                text="• ᴏᴡɴᴇʀ •", url="https://t.me/FRIEND_X_ZONE_CHATING_GROUP"
             ),
             InlineKeyboardButton(
-                text="❰❤️‍🔥𝐁𝐀𝐁𝐔❤️‍🔥❱", url="https://t.me/FRIEND_X_ZONE_CHATING_GROUP"
+                text="• ɢʀᴏᴜᴘ •", url="https://t.me/FRIEND_X_ZONE_CHATING_GROUP"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="❰❤️‍🔥𝐉𝐎𝐈𝐍 𝐆𝐑𝐎𝐔𝐏❤️‍🔥❱", url="https://t.me/FRIEND_X_ZONE_CHATING_GROUP"
+                text="ᴧʟʟ ʙσᴛ's ˼", url="https://t.me/FRIEND_X_ZONE_CHATING_GROUP"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
