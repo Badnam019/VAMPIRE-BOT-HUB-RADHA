@@ -61,15 +61,15 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="• ᴏᴡɴᴇʀ •", url="https://t.me/FRIEND_X_ZONE_CHATING_GROUP"
+                text="• ᴏᴡɴᴇʀ •", url="https://t.me/FRIEND_X_ZONE_XDll"
             ),
             InlineKeyboardButton(
-                text="• ɢʀᴏᴜᴘ •", url="https://t.me/FRIEND_X_ZONE_CHATING_GROUP"
+                text="• ɢʀᴏᴜᴘ •", url="https://t.me/FRIEND_X_ZONE_XDll"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="ᴧʟʟ ʙσᴛ'", url="https://t.me/FRIEND_X_ZONE_CHATING_GROUP"
+                text="ᴧʟʟ ʙσᴛ'", url="https://t.me/FRIEND_X_ZONE_XDll"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -88,12 +88,12 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="❤️‍🔥𝐉𝐀𝐘 𝐒𝐇𝐑𝐄𝐄 𝐊𝐑𝐈𝐒𝐇𝐍𝐀❤️‍🔥", url="https://t.me/FRIEND_X_ZONE_CHATING_GROUP",
+                text="❤️‍🔥𝐉𝐀𝐘 𝐒𝐇𝐑𝐄𝐄 𝐊𝐑𝐈𝐒𝐇𝐍𝐀❤️‍🔥", url="https://t.me/FRIEND_X_ZONE_XDll",
             ),
         ],
         [
             InlineKeyboardButton(
-                text="𝙄 𝘼𝙢 𝙇𝙞𝙫𝙚 𝙉𝙤𝙬🎧", url="https://t.me/FRIEND_X_ZONE_CHATING_GROUP",
+                text="𝙄 𝘼𝙢 𝙇𝙞𝙫𝙚 𝙉𝙤𝙬🎧", url="https://t.me/FRIEND_X_ZONE_XDll",
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
